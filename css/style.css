@@ -199,7 +199,7 @@ body{
     width: 100%;
     height: 150px;
     color: #df9fc1;
-    background:url(/img/design.png) center no-repeat;
+    background:url(../img/design.png) center no-repeat;
     background-size: contain;
     border-radius: 15px;
     overflow: hidden;
@@ -210,7 +210,7 @@ body{
     width: 100%;
     height: 150px;
     color: #a18a96;
-    background:url(/img/webdesign-min.png) center no-repeat;
+    background:url(../img/webdesign-min.png) center no-repeat;
     background-size: contain;
     border-radius: 20px;
     overflow: hidden;
@@ -221,7 +221,7 @@ body{
     width: 100%;
     height: 150px;
     color: #a18a96;
-    background:url(/img/PLATFORM-APP.png) center no-repeat;
+    background:url(../img/PLATFORM-APP.png) center no-repeat;
     background-size: contain;
     border-radius: 20px;
     overflow: hidden;
